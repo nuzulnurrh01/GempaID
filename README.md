@@ -38,8 +38,6 @@ Aplikasi menarik data secara *online* dari REST API publik **BMKG**:
 *   **Room Database:** Mengimplementasikan caching lokal sehingga data tetap dapat diakses meskipun perangkat sedang *offline*.
 *   **Network Monitor:** Deteksi otomatis status internet untuk memberikan peringatan kepada pengguna.
 
----
-
 ## Informasi Mahasiswa
 *   **Nama:** Nuzul Nur Rohman
 *   **NIM:** 205410107
