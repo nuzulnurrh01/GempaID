@@ -41,8 +41,8 @@ Aplikasi menarik data secara *online* dari REST API publik **BMKG**:
 ---
 
 ## Informasi Mahasiswa
-*   **Nama:**Nuzul Nur Rohman
-*   **NIM:**205410107
+*   **Nama:** Nuzul Nur Rohman
+*   **NIM:** 205410107
 *   **Program Studi:** Informatika
 
 ## Cara Menjalankan Proyek
