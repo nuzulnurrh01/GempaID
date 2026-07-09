@@ -34,15 +34,15 @@ Aplikasi menarik data secara *online* dari REST API publik **BMKG**:
 *   **Coil Image Loading:** Menggunakan library **Coil** (`AsyncImage`) untuk memuat gambar peta guncangan (*shakemap*) dari URL BMKG.
 *   **Penanganan State:** Dilengkapi dengan *placeholder* saat memuat dan *error fallback* jika gambar gagal diunduh.
 
-### 6. Fitur Tambahan (Offline Mode)
+### 6. Fitur  (Offline Mode)
 *   **Room Database:** Mengimplementasikan caching lokal sehingga data tetap dapat diakses meskipun perangkat sedang *offline*.
 *   **Network Monitor:** Deteksi otomatis status internet untuk memberikan peringatan kepada pengguna.
 
 ---
 
 ## Informasi Mahasiswa
-*   **Nama:** [ISI NAMA ANDA]
-*   **NIM:** [ISI NIM ANDA]
+*   **Nama:**Nuzul Nur Rohman
+*   **NIM:**205410107
 *   **Program Studi:** Informatika
 
 ## Cara Menjalankan Proyek
