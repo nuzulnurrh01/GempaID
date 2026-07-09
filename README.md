@@ -6,7 +6,7 @@ Aplikasi Android native yang dirancang untuk memantau informasi gempa bumi terki
 Berikut adalah detail teknis mengenai implementasi fitur dalam proyek ini:
 
 ### 1. Desain Material dengan Compose (Materi Pertemuan 9)
-Aplikasi ini sepenuhnya dikembangkan menggunakan **Jetpack Compose** dengan standar **Material Design 3**.
+Aplikasi ini  dikembangkan menggunakan **Jetpack Compose** dengan standar **Material Design 3**.
 *   **Komponen Standar:** Menggunakan `Scaffold`, `LargeTopAppBar`, `Card`, dan `HorizontalDivider`.
 *   **Responsif & Rapi:** Menggunakan `nestedScroll` agar TopAppBar mengecil saat daftar di-scroll, memberikan pengalaman pengguna yang modern.
 *   **Mode Gelap:** Mendukung tema Dark Mode dan Light Mode yang tersimpan secara persisten.
